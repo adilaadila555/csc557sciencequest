@@ -1,0 +1,11 @@
+<resources>
+
+
+        <string name="app_name">ScienceQuest</string>
+        <string name="sign_in">Sign In</string>
+        <string name="email_hint">Email</string>
+        <string name="password_hint">Password</string>
+        <string name="login">Login</string>
+
+
+</resources>
